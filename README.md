@@ -1,2 +1,6 @@
 # hello-world
-First Try
+
+First Try,
+Learn Github
+
+Use for programming 
